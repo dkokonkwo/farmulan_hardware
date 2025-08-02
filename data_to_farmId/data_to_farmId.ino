@@ -4,9 +4,9 @@
 // Network credentials
 const char* ssid = "David";
 const char* password = "12345678";
-const char* uid = "dYo3S41lsGWFtWR9T6QdV1jInvu1";
-const char* farmId = "a6MrKsb6vvHYxtvfb90s";
-const char* cropId = "1eea9800-aac0-423f-85d6-453657dd6312";
+const char* uid = "NoOch2JDjMP6jf39jQghIUYLua33";
+const char* farmId = "jVRKwU5P5x2s3zfcYhED";
+const char* cropId = "9401f505-62e5-488f-8aa3-c18c26e2755e";
 
 #define SendKey 0  //Button to send data Flash BTN on NodeMCU
 #define SOIL_MOISTURE A0 // Potentiometer
